@@ -12,3 +12,10 @@ animal =
   Fast: True,
   Mammel: True
 }
+
+customer =
+{
+  Name: "Jim",
+  Gender: "Male",
+  is_satisfied: false
+}
